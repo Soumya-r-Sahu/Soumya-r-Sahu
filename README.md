@@ -1,4 +1,6 @@
+
 ---
+
 # 👋 Hi, I'm Soumya R Sahu
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Soumya-r-Sahu&color=blue)](https://github.com/Soumya-r-Sahu)
@@ -14,7 +16,7 @@ Here you'll find a showcase of my [projects](https://github.com/Soumya-r-Sahu?ta
 
 ## 🔥 Now
 
-- 🚧 Currently developing and enhancing [ledgora](https://github.com/Soumya-r-Sahu/ledgora), my open-source ledger and finance platform.
+- 🚧 Currently developing and enhancing [LEDGORA](https://github.com/Soumya-r-Sahu/LEDGORA), my open-source ledger and finance platform.
 - 📚 Learning advanced system design and exploring scalable software architectures.
 - ☁️ Deepening my knowledge in cloud computing and automation tools.
 - 🤝 Actively contributing to open-source projects and collaborating with the developer community.
@@ -25,7 +27,7 @@ Here you'll find a showcase of my [projects](https://github.com/Soumya-r-Sahu?ta
 ## 📊 GitHub Metrics
 
 [![Soumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumya-r-Sahu&show_icons=true&theme=radical)](https://github.com/Soumya-r-Sahu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-r-Sahu&layout=compact&theme=radical)](https://github.com/Soumya-r-Sahu/ledgora)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-r-Sahu&layout=compact&theme=radical)](https://github.com/Soumya-r-Sahu/LEDGORA)
 
 ---
 
@@ -51,13 +53,13 @@ Here you'll find a showcase of my [projects](https://github.com/Soumya-r-Sahu?ta
 
 ## 📂 Current Project
 
-### ⚙️ [ledgora](https://github.com/Soumya-r-Sahu/ledgora)
-[![Version](https://img.shields.io/github/v/release/Soumya-r-Sahu/ledgora?include_prereleases)](https://github.com/Soumya-r-Sahu/ledgora/releases)
+### ⚙️ [LEDGORA](https://github.com/Soumya-r-Sahu/LEDGORA)
+[![Version](https://img.shields.io/github/v/release/Soumya-r-Sahu/LEDGORA?include_prereleases)](https://github.com/Soumya-r-Sahu/LEDGORA/releases)
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=FFD43B)](https://www.python.org/)
-![GitHub last commit](https://img.shields.io/github/last-commit/Soumya-r-Sahu/ledgora?logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/Soumya-r-Sahu/ledgora?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Soumya-r-Sahu/LEDGORA?logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/Soumya-r-Sahu/LEDGORA?style=social)
 
-> 📒 **Ledgora** is my current focus—an open-source ledger and finance platform, built with best practices, modern Python, and scalable architecture.
+> 📒 **LEDGORA** is my current focus—an open-source ledger and finance platform, built with best practices, modern Python, and scalable architecture.
 
 ---
 
