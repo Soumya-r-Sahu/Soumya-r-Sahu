@@ -1,3 +1,4 @@
+---
 # 👋 Hi, I'm Soumya R Sahu
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Soumya-r-Sahu&color=blue)](https://github.com/Soumya-r-Sahu)
@@ -8,6 +9,16 @@
 Welcome to my [GitHub profile](https://github.com/Soumya-r-Sahu)! 🚀  
 I'm passionate about **software development**, **system design**, and building **impactful solutions**.  
 Here you'll find a showcase of my [projects](https://github.com/Soumya-r-Sahu?tab=repositories) 🛠️, [skills](#-skills) 💡, and [contributions](https://github.com/Soumya-r-Sahu?tab=overview&from=2024-01-01&to=2024-12-31) 🌟.
+
+---
+
+## 🔥 Now
+
+- 🚧 Currently developing and enhancing [ledgora](https://github.com/Soumya-r-Sahu/ledgora), my open-source ledger and finance platform.
+- 📚 Learning advanced system design and exploring scalable software architectures.
+- ☁️ Deepening my knowledge in cloud computing and automation tools.
+- 🤝 Actively contributing to open-source projects and collaborating with the developer community.
+- 🧑‍💻 Experimenting with new technologies and frameworks to broaden my tech stack.
 
 ---
 
@@ -64,14 +75,6 @@ Here you'll find a showcase of my [projects](https://github.com/Soumya-r-Sahu?ta
 
 ---
 
-## 📫 Contact Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Soumya-r-Sahu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-ranjan-sahu-45a134330)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanhsahu657@gmail.com)
-
----
-
 ## 🏆 Achievements
 
 - 🏅 Consistent contributor to multiple repositories.
@@ -80,4 +83,14 @@ Here you'll find a showcase of my [projects](https://github.com/Soumya-r-Sahu?ta
 
 ---
 
+## 📫 Contact Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Soumya-r-Sahu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-ranjan-sahu-45a134330)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanhsahu657@gmail.com)
+
+---
+
 > 🌟 Thank you for visiting my profile! Feel free to check out my [repositories](https://github.com/Soumya-r-Sahu?tab=repositories) and connect with me. 😊
+
+---
