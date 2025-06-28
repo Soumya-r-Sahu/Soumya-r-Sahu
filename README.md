@@ -5,15 +5,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-ranjan-sahu-45a134330)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanhsahu657@gmail.com)
 
-Welcome to my [GitHub profile](https://github.com/Soumya-r-Sahu)! 🚀 I'm passionate about **software development**, **system design**, and building **impactful solutions**. Here you'll find a showcase of my [projects](https://github.com/Soumya-r-Sahu?tab=repositories) 🛠️, [skills](#-skills) 💡, and [contributions](https://github.com/Soumya-r-Sahu?tab=overview&from=2024-01-01&to=2024-12-31) 🌟.
+Welcome to my [GitHub profile](https://github.com/Soumya-r-Sahu)! 🚀  
+I'm passionate about **software development**, **system design**, and building **impactful solutions**.  
+Here you'll find a showcase of my [projects](https://github.com/Soumya-r-Sahu?tab=repositories) 🛠️, [skills](#-skills) 💡, and [contributions](https://github.com/Soumya-r-Sahu?tab=overview&from=2024-01-01&to=2024-12-31) 🌟.
 
 ---
 
-## 📊 [GitHub Metrics](https://github.com/Soumya-r-Sahu)
+## 📊 GitHub Metrics
 
 [![Soumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumya-r-Sahu&show_icons=true&theme=radical)](https://github.com/Soumya-r-Sahu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-r-Sahu&layout=compact&theme=radical)](https://github.com/Soumya-r-Sahu/CBS_PYTHON)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-r-Sahu&layout=compact&theme=radical)](https://github.com/Soumya-r-Sahu/ledgora)
 
+---
 
 ## 🚀 Skills
 
@@ -37,13 +40,13 @@ Welcome to my [GitHub profile](https://github.com/Soumya-r-Sahu)! 🚀 I'm passi
 
 ## 📂 Current Project
 
-### ⚙️ [CBS_PYTHON](https://github.com/Soumya-r-Sahu/CBS_PYTHON)
-[![Version](https://img.shields.io/github/v/release/Soumya-r-Sahu/CBS_PYTHON?include_prereleases)](https://github.com/Soumya-r-Sahu/CBS_PYTHON/releases)
+### ⚙️ [ledgora](https://github.com/Soumya-r-Sahu/ledgora)
+[![Version](https://img.shields.io/github/v/release/Soumya-r-Sahu/ledgora?include_prereleases)](https://github.com/Soumya-r-Sahu/ledgora/releases)
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=FFD43B)](https://www.python.org/)
-![GitHub last commit](https://img.shields.io/github/last-commit/Soumya-r-Sahu/CBS_PYTHON?logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/Soumya-r-Sahu/CBS_PYTHON?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Soumya-r-Sahu/ledgora?logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/Soumya-r-Sahu/ledgora?style=social)
 
-> 🏦 This project implements a **Core Banking System (CBS)** using [Python](https://www.python.org/), following modern software development [practices](https://12factor.net/) and [architecture](https://en.wikipedia.org/wiki/Software_architecture).
+> 📒 **Ledgora** is my current focus—an open-source ledger and finance platform, built with best practices, modern Python, and scalable architecture.
 
 ---
 
